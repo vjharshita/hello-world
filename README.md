@@ -1,5 +1,5 @@
 # hello-world
-just another repository
+First repository
 
 Hi,
 Imagination is more important than knowledge.
